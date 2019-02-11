@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/WebSkul/laraGoogle/resources/views/auth/register.blade.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/resources/views/auth/login.blade.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/routes/web.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/app/Http/Middleware/Student.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/resources/views/layouts/app.blade.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/app/Http/Kernel.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/.env</file>
+            <file>file:/D:/WebSkul/laraGoogle/config/session.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/app/Http/Controllers/UserController.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/config/app.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/app/Http/Controllers/HomeController.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/app/User.php</file>
+            <file>file:/D:/WebSkul/laraGoogle/resources/views/roleUpdate.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
